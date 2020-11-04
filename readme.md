@@ -1,4 +1,6 @@
 # Autistic Spectrum Disorder Bioinformatics Analysis
+Update : 2020/11/04
+
 ## Background
 研究表明，肠道菌群会通过肠-脑轴等的机制影响人神经系统；基于健康人群与ASD患者的肠道菌群扩增子测序结果，我们期望通过识别肠道菌群中的差异物种来实现对于ASD的判别以及潜在干预靶点的确定。  
 对此我们使用机器学习方法（Random Forest）来构建健康/ASD判别模型，并基于模型解释来确定其中的关键生物标志物；在此基础之上使用统计检验来确定物种在不同人群中的差异性。  
